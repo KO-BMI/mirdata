@@ -2,10 +2,10 @@
 \alias{targetScan_v6_2_zebrafish}
 \docType{data}
 \title{
-%%   ~~ data name/kind ... ~~
+TargetScan with zebra v20 names
 }
 \description{
-%%  ~~ A concise (1-5 lines) description of the dataset. ~~
+TargetScan with zebra v20 names
 }
 \usage{data("targetScan_v6_2_zebrafish")}
 \format{
