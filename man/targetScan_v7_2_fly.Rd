@@ -2,11 +2,10 @@
 \alias{targetScan_v7_2_fly}
 \docType{data}
 \title{
-%%   ~~ data name/kind ... ~~
+targetScan_fly
 }
 \description{
-%%  ~~ A concise (1-5 lines) description of the dataset. ~~
-}
+targetScan_fly}
 \usage{data("targetScan_v7_2_fly")}
 \format{
   A data frame with 32517 observations on the following 3 variables.
